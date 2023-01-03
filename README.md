@@ -6,9 +6,9 @@ Getting Started
 To get started with this project, you will need to have Node.js and npm installed on your machine. You can then clone this repository and install the necessary dependencies by running the following commands:
 
 
-```git clone https://github.com/zouvier/web3insurance
-cd insurance
-npm install```
+```git clone https://github.com/zouvier/web3insurance```
+```cd insurance```
+```npm install```
 
 
 Before you can start using this project, you will need to set up a few configuration options. These can be found in the wallets.js file located in the ```insurance/```
