@@ -1,5 +1,7 @@
 Welcome to my Node.js project for web3 insurance!
 
+Link to Youtube Video: https://youtu.be/xSK53j-l4q0
+
 This project allows you to monitor the blockchain for transactions that are sent from a wallet that you own. It will then verify if the transaction is going to a trusted wallet. If the transaction is not going to a trusted wallet, the project will "front run" the rogue transaction and send the funds to a wallet that you own instead.
 
 Getting Started
