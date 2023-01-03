@@ -11,7 +11,7 @@ cd insurance
 npm install```
 
 
-Before you can start using this project, you will need to set up a few configuration options. These can be found in the wallets.js file located in the `insurance/`
+Before you can start using this project, you will need to set up a few configuration options. These can be found in the wallets.js file located in the ```insurance/```
 
 First, you will need to specify the address of the wallet that you want to monitor. This can be done by setting the Account0 address option in the wallets file.
 
